@@ -1,9 +1,10 @@
 ## Hey! Nice to see you. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px" />
 
-Welcome to my page!
-:man_technologist: I'm Mustafa, Fullstack Developer from <img src="https://image.flaticon.com/icons/svg/330/330467.svg" width="13"/> **Ankara, Turkey.** I have been working for about more than ten years.
-:telescope: I like developing new applications and learning new things.
-:speech_balloon: Ask me about anything related to Javascript/Typescript/PHP/C# or React/Vue/Bootstrap.
+<p>
+Welcome to my page!<br>
+:man_technologist: I'm Mustafa, Fullstack Developer from <img src="https://image.flaticon.com/icons/svg/330/330467.svg" width="13"/> <b>Ankara, Turkey.</b> I have been working for about more than ten years.<br>
+:telescope: I like developing new applications and learning new things.<br>
+:speech_balloon: Ask me about anything related to Javascript/Typescript/PHP/C# or React/Vue/Bootstrap.</p>
 
 
 ### :sunglasses: About me
