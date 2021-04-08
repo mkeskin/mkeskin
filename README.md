@@ -32,7 +32,7 @@ func main() {
     "Travelling ⛵",
     "Listening Music 🎧",
     "Cooking 🥘"
-  {
+  }
 
   fmt.Println(me)
 }
