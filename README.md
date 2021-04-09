@@ -2,7 +2,7 @@
 
 <p>
 Welcome to my page!<br>
-:man_technologist: I'm Mustafa, Fullstack Developer from <img src="https://image.flaticon.com/icons/svg/330/330467.svg" width="13"/> <b>Ankara, Turkey.</b> I have been working for about more than 10 years.<br>
+:man_technologist: I'm Mustafa, Fullstack Developer from <img src="https://image.flaticon.com/icons/svg/330/330467.svg" width="13"/> <b>Ankara, Turkey.</b> I have been working for about over 10 years.<br>
 :telescope: I like developing new applications and learning new things.<br>
 :speech_balloon: Ask me about anything related to Javascript/Typescript/PHP/C# or React/Vue/Bootstrap.</p>
 
