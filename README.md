@@ -24,7 +24,7 @@ type person struct {
 func main() {
   me := person {
     name: "Mustafa Keskin",
-    contact: "mustafa@keskin.work"
+    contact: "mustafa@keskin.work",
     age: 24
   }
 
