@@ -25,12 +25,11 @@ func main() {
   me := Person {
     name: "Mustafa Keskin",
     contact: "mustafa@keskin.work",
-    age: 24
+    age: 25
   }
 
   me.hobbies = []string {
     "Travelling ⛵",
-    "Listening Music 🎧",
     "Cooking 🥘"
   }
 
