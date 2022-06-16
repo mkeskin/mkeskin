@@ -25,7 +25,7 @@ func main() {
   me := Person {
     name: "Mustafa Keskin",
     contact: "mustafa@keskin.work",
-    age: 25
+    age: 26
   }
 
   me.hobbies = []string {
