@@ -45,11 +45,11 @@ func main() {
   <img alt="gitHub" src="https://img.shields.io/badge/GitHub%20-%23121011.svg?&style=flat&logo=github&logoColor=white" />
   <img alt="docker" src="https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=flat&logo=docker&logoColor=white" />
   <!--Backend Languages and Frameworks-->
+  <img alt="go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&style=flat&logo=go&logoColor=white" />
   <img alt="c#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?&style=flat&logo=c-sharp&logoColor=white" />
   <img alt=".net core" src="https://img.shields.io/badge/.NET_Core-5C2D91?style=flat&logo=.net&logoColor=white" />
   <img alt="php" src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat&logo=php&logoColor=white" />
   <img alt="laravel" src="https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?&style=flat&logo=laravel&logoColor=white" />
-  <img alt="go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&style=flat&logo=go&logoColor=white" />
   <!--Frontend Tools and Frameworks-->
   <img alt="html5" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white" />
   <img alt="typescript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white" />
